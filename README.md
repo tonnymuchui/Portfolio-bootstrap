@@ -1,18 +1,13 @@
 ![](https://github.com/tonnymuchui/Portfolio-bootstrap)
 # Portfolio-Bootstrap
 
-> Welcome to my Portfolio Mobile Version
+> Welcome to my Portfolio 
 
 - Live version: [GitHub Page](https://github.com/tonnymuchui/Portfolio-bootstrap)
-#### Mobile View Portfolio Image.
+#### View Portfolio Image.
 
-<img align="left" width="250" src="/images/desk1.png" alt="Portfolio Mobile View" />
-<img align="left" width="250" src="/images/desk2.png" alt="Portfolio Mobile View" />
-<img align="left" width="250" src="/images/desk3.png" alt="Portfolio Mobile View" />
-<img align="left" width="250" src="/images/desk4.png" alt="Portfolio Mobile View" />
-<img align="left" width="250" src="/images/desk5.png" alt="Portfolio Mobile View" />
-<img align="left" width="250" src="/images/desk6.png" alt="Portfolio Mobile View" />
-<img align="left" width="250" src="/images/desk7.png" alt="Portfolio Mobile View" />
+![](./images/Screenshot7.png)
+
 ## Built With
 
 - HTML,CSS& Bootstrap
@@ -41,6 +36,12 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@githubhandle](https://github.com/tonnymuchui/Portfolio.git)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tonny-muchui-murungi-9b549a174/)
+
+👤 **Author2**
+ Ekpenisi Erue Raphael.
+- GitHub: (https://github.com/eerapheal) 
+- Twitter: (https://twitter.com/ekpenisiraphael) 
+- LinkedIn: (https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
 
 
 ## 🤝 Contributing
