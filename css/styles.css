@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
 
 :root {
   --color-primary: #6070ff;
@@ -8,7 +8,7 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 20px;
   color: #344563;
   font-weight: 400;
@@ -24,12 +24,12 @@ header {
 }
 
 .connect {
-  color: var(--color-primary-light);
+  color: #142cff;
   font-weight: 500;
 }
 
 #my-logo {
-  color: #142CFF;
+  color: #142cff;
   font-weight: 700;
   font-size: 18px;
 }
@@ -99,7 +99,7 @@ span {
   border-radius: 0.8rem;
   list-style: none;
   display: inline;
-  color: var(--color-primary);
+  color: #142cff;
   font-size: 12px;
 }
 
@@ -171,7 +171,7 @@ footer {
 
 .contact {
   color: white;
-  font-family: 'Poppins', sans-serif !important;
+  font-family: "Poppins", sans-serif !important;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -180,7 +180,7 @@ footer {
 
 .footer-paragraph {
   height: 102px;
-  font-family: 'Poppins', sans-serif !important;
+  font-family: "Poppins", sans-serif !important;
   font-style: normal;
   font-weight: 400;
   line-height: 28px;
